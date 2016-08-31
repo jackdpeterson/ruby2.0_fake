@@ -1,0 +1,11 @@
+Package: ruby2.0
+Version: 2.0.0
+Section: laguage
+Priority: optional
+Architecture: all
+Provides: ruby-2.0
+Depends: ruby
+Suggests:
+Conflicts:
+Maintainer: Jack Peterson <jack.peterson@gmail.com>
+Description: Fake ruby 2.0 package for ubuntu 16.04 and code-deploy compatibility

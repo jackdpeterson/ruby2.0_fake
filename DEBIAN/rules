@@ -1,0 +1,2 @@
+build:
+    ln -s /usr/bin/ruby /usr/bin/ruby2.0
